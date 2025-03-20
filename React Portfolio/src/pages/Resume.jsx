@@ -19,6 +19,8 @@ const Resume = () => {
         <li className="list-group-item">Responsive Design</li>
         <li className="list-group-item">RESTful APIs</li>
         <li className="list-group-item">Express</li>
+        <li className="list-group-item">SQL</li>
+        <li className="list-group-item">Prompt Engineering</li>
         <li className="list-group-item">TypeScript</li>
       </ul>
     </section>
