@@ -34,10 +34,28 @@ const Portfolio = () => {
       repoLink: 'https://github.com/chicalauren/Interactive_WD'
     },
     {
-      title: 'Interactive_WD',
+      title: 'Online_Trivia_Game',
       image: '/image/coding1.jpg',
-      deployedLink: 'https://chicalauren.github.io/Interactive_WD/',
-      repoLink: 'https://github.com/chicalauren/Interactive_WD'
+      deployedLink: 'https://onlinetriviagame-2qkt.onrender.com/',
+      repoLink: 'https://github.com/Liz-Melcher/OnlineTriviaGame'
+    },
+      {
+      title: 'Social_Network_API',
+      image: '/image/coding1.jpg',
+      deployedLink: 'https://drive.google.com/file/d/1lAw5l_4pq7zVt32BplvSkp3osO9SpH6D/view',
+      repoLink: 'https://github.com/gamalmubarak/Social_Network_API'
+    },
+      {
+      title: 'Book_Search_Engine',
+      image: '/image/coding1.jpg',
+      deployedLink: 'https://book-search-engine-f5u2.onrender.com/',
+      repoLink: 'https://github.com/gamalmubarak/Book_Search_Engine'
+    },
+      {
+      title: 'Task_Manager_App',
+      image: '/image/coding1.jpg',
+      deployedLink: 'https://task-manager-app-qfzm.onrender.com/',
+      repoLink: 'https://github.com/lobungen/Task-Manager-App'
     },
   ];
 
