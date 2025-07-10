@@ -35,7 +35,7 @@ const Portfolio = () => {
     },
     {
       title: 'Online_Trivia_Game',
-      image: '/image/coding1.jpg',
+      image: '/image/Trivia2.jpg',
       deployedLink: 'https://onlinetriviagame-2qkt.onrender.com/',
       repoLink: 'https://github.com/Liz-Melcher/OnlineTriviaGame'
     },
@@ -47,13 +47,13 @@ const Portfolio = () => {
     },
       {
       title: 'Book_Search_Engine',
-      image: '/image/coding1.jpg',
+      image: '/image/book.jpg',
       deployedLink: 'https://book-search-engine-f5u2.onrender.com/',
       repoLink: 'https://github.com/gamalmubarak/Book_Search_Engine'
     },
       {
       title: 'Task_Manager_App',
-      image: '/image/coding1.jpg',
+      image: '/image/task-manager.jpg',
       deployedLink: 'https://task-manager-app-qfzm.onrender.com/',
       repoLink: 'https://github.com/lobungen/Task-Manager-App'
     },
