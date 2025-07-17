@@ -11,7 +11,7 @@ const Footer = () => {
           <a href="https://www.linkedin.com/in/gamalmubarak87" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </li>
         <li className="list-inline-item">
-          <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer">Twitter</a>
+          <a href="mailto:gamalmubarak87@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
         </li>
       </ul>
     </footer>
