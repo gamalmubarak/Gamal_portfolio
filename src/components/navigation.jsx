@@ -5,7 +5,7 @@ const Navigation = () => {
   const location = useLocation();
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: '#9e9e9e', fontSize: '1.25rem' }}>
+    <nav className="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: '#9e9e9e', fontSize: '1.25rem', fontFamily: 'Inter, sans-serif', fontWeight: '500' }}>
       <div className="container-fluid">
         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
           <li className={`nav-item ${location.pathname === '/' ? 'active' : ''}`}>
