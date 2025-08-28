@@ -33,8 +33,24 @@ const Contact = () => {
   };
 
   return (
-    <section className="p-3">
-      <h2>Contact Me</h2>
+    <section className="p-4" style={{
+      background: 'rgba(255, 255, 255, 0.9)',
+      borderRadius: '20px',
+      boxShadow: '0 8px 32px rgba(0, 0, 0, 0.1)',
+      backdropFilter: 'blur(10px)',
+      border: '1px solid rgba(255, 255, 255, 0.18)',
+      margin: '20px 0',
+      maxWidth: '600px',
+      marginLeft: 'auto',
+      marginRight: 'auto'
+    }}>
+      <h2 style={{
+        color: '#333',
+        textAlign: 'center',
+        marginBottom: '2rem',
+        fontSize: '2.5rem',
+        fontWeight: '600'
+      }}>Contact Me</h2>
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
           <label htmlFor="name" className="form-label">Name:</label>

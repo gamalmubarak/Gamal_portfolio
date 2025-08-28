@@ -60,8 +60,20 @@ const Portfolio = () => {
   ];
 
   return (
-    <section className="container p-3">
-      <h2 className="my-4 text-center">Portfolio</h2>
+    <section className="container p-4" style={{
+      background: 'rgba(255, 255, 255, 0.9)',
+      borderRadius: '20px',
+      boxShadow: '0 8px 32px rgba(0, 0, 0, 0.1)',
+      backdropFilter: 'blur(10px)',
+      border: '1px solid rgba(255, 255, 255, 0.18)',
+      margin: '20px auto'
+    }}>
+      <h2 className="my-4 text-center" style={{
+        color: '#333',
+        fontSize: '2.5rem',
+        fontWeight: '600',
+        marginBottom: '3rem'
+      }}>Portfolio</h2>
       <div className="row">
         {projects.map((project, index) => (
           <div className="col-md-4 mb-4" key={index}>
