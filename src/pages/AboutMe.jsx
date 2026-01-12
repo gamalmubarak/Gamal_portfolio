@@ -22,7 +22,7 @@ const AboutMe = () => {
         marginBottom: '2rem'
       }}>
         <img 
-          src="/image/gamal2.JPG"
+          src="/image/gamal.JPG"
           alt="Gamal Mubarak" 
           className="img-fluid rounded-circle mb-3" 
           style={{ 
